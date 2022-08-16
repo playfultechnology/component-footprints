@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="224.05836"
-     inkscape:cy="764.40629"
+     inkscape:zoom="0.38048089"
+     inkscape:cx="325.69098"
+     inkscape:cy="-173.3495"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1178-2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -110,6 +110,12 @@
          y="342.00073"
          ry="0.94990468" />
     </g>
+    <circle
+       cy="48.130749"
+       cx="384.26312"
+       id="path98-8-4-0-0-0"
+       style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0999999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="22.5" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -254,20 +260,30 @@
          sodipodi:role="line" /></text>
     <text
        id="text1464-3"
-       y="-11.967013"
-       x="26.939655"
+       y="-43.504818"
+       x="0.21270084"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          style="text-align:start;text-anchor:start;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         y="-11.967013"
-         x="26.939655"
-         id="tspan1462-8"
-         sodipodi:role="line">All line widths should be 0.01mm. To ensure visible in Inkscape, go</tspan><tspan
+         y="-43.504818"
+         x="0.21270084"
+         sodipodi:role="line"
+         id="tspan1131">All line widths should be 0.01mm. </tspan><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="-30.275694"
+         x="0.21270084"
+         sodipodi:role="line"
+         id="tspan1137">To ensure visible in Inkscape, go:</tspan><tspan
          id="tspan1466-4"
          style="text-align:start;text-anchor:start;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         y="1.2621112"
-         x="26.939655"
-         sodipodi:role="line">View -&gt; Display Mode -&gt; Outline</tspan></text>
+         y="-17.04657"
+         x="0.21270084"
+         sodipodi:role="line">   View -&gt; Display Mode -&gt; Outline</tspan><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="-3.8174443"
+         x="0.21270084"
+         sodipodi:role="line"
+         id="tspan1133">   Preferences -&gt; Tools -&gt; Geometric Bounding Box</tspan></text>
     <text
        id="text63622-8"
        y="195.79292"
@@ -450,6 +466,28 @@
          x="-36.183983"
          id="tspan3742-6-4-3"
          sodipodi:role="line">Audio jack 8.8mm/8mm</tspan></text>
+    <text
+       id="text3748-2-3-6-9-6"
+       y="163.94209"
+       x="382.79416"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="163.94209"
+         x="382.79416"
+         id="tspan3746-8-5-0-6-2"
+         sodipodi:role="line">Zippy Joystick</tspan></text>
+    <text
+       id="text3748-2-3-6-9-6-4"
+       y="83.270576"
+       x="382.8696"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="83.270576"
+         x="382.8696"
+         id="tspan3746-8-5-0-6-2-9"
+         sodipodi:role="line">Claw Machine Joystick (e.g Sparkfun 9136)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -467,11 +505,11 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <circle
-       r="2.9441273"
-       cy="22.7306"
-       cx="-100.54163"
+       cy="22.736473"
+       cx="-100.53576"
        id="path823-3-0-7"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="2.95" />
     <g
        id="g1172-5"
        transform="translate(344.95787,-155.01633)">
@@ -857,5 +895,101 @@
        d="m -42.439416,18.482145 a 4.4000001,4.4000001 0 0 0 -2.568318,4.00029 4.4000001,4.4000001 0 0 0 2.566252,3.99976 h 3.666442 a 4.4000001,4.4000001 0 0 0 2.567286,-3.99976 4.4000001,4.4000001 0 0 0 -2.567286,-4.00029 z"
        style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path966-7" />
+    <g
+       id="g1166-2"
+       transform="matrix(1.5301614,0,0,1.171511,709.20961,-306.86566)"
+       style="display:inline;stroke-width:0.746892">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0746892;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect50431-8-0"
+         width="63.39854"
+         height="55.39854"
+         x="-244.99927"
+         y="342.00073"
+         ry="2.6600652" />
+    </g>
+    <circle
+       cy="126.24189"
+       cx="382.8262"
+       id="path98-8-4-0-0"
+       style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0999999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="7.5" />
+    <g
+       id="g1255"
+       transform="translate(522.26619,246.41696)">
+      <ellipse
+         ry="1.6"
+         rx="1.5999999"
+         cy="-98.400002"
+         cx="-180.48"
+         id="path98-8-9-8-3-2"
+         style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="1.5999999"
+         rx="1.6"
+         cy="-98.399986"
+         cx="-98.400002"
+         id="path98-8-9-0-0-2-0"
+         style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="1.6"
+         rx="1.5999999"
+         cy="-141.95"
+         cx="-180.48"
+         id="path98-8-9-8-3-2-3"
+         style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="1.5999999"
+         rx="1.6"
+         cy="-141.95"
+         cx="-98.400002"
+         id="path98-8-9-0-0-2-0-9"
+         style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1166-2-3"
+       transform="matrix(0.97794049,0,0,1.1191631,592.85782,-365.62386)"
+       style="display:inline;stroke-width:0.955865">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0955865;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect50431-8-0-5"
+         width="63.39854"
+         height="55.39854"
+         x="-244.99927"
+         y="342.00073"
+         ry="4.0187478" />
+    </g>
+    <g
+       id="g1337"
+       transform="translate(508.16312,272.03074)">
+      <ellipse
+         ry="1.6"
+         rx="1.5999999"
+         cy="-198.39999"
+         cx="-149.39999"
+         id="path98-8-9-8-3-2-2"
+         style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="1.5999999"
+         rx="1.6"
+         cy="-198.39999"
+         cx="-98.400002"
+         id="path98-8-9-0-0-2-0-3"
+         style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         cy="-249.39999"
+         cx="-149.39999"
+         id="path98-8-9-8-3-2-3-8"
+         style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="1.6"
+         rx="1.5999999" />
+      <ellipse
+         ry="1.5999999"
+         rx="1.6"
+         cy="-249.39999"
+         cx="-98.400002"
+         id="path98-8-9-0-0-2-0-9-5"
+         style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
