@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="641.27594mm"
-   height="305.72153mm"
-   viewBox="0 0 641.27594 305.72153"
+   width="701.96094mm"
+   height="307.09595mm"
+   viewBox="0 0 701.96094 307.09595"
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53808123"
-     inkscape:cx="634.66253"
-     inkscape:cy="580.76733"
+     inkscape:zoom="0.19024044"
+     inkscape:cx="1067.0707"
+     inkscape:cy="39.423794"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -61,7 +61,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(209.88764,51.33894)">
+     transform="translate(270.57258,54.104142)">
     <g
        id="g1172"
        transform="translate(344.95787,-155.01633)">
@@ -85,8 +85,8 @@
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <rect
-       y="204.54259"
-       x="-15.148188"
+       y="203.15181"
+       x="-132.66942"
        height="49.790001"
        width="299.98999"
        id="rect63618"
@@ -129,7 +129,7 @@
      id="layer2"
      inkscape:label="Labels"
      style="display:inline"
-     transform="translate(209.88764,51.33894)">
+     transform="translate(270.57258,54.104142)">
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
        id="flowRoot815-56"
@@ -311,14 +311,14 @@
          sodipodi:role="line">UVstrip. 3.4x2.8mm squares at 16.7mm spacing</tspan></text>
     <text
        id="text3854-5-8-2-8-3"
-       y="236.40089"
-       x="107.24055"
+       y="235.01012"
+       x="-10.280687"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          id="tspan1527-1-6-2"
          style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         y="236.40089"
-         x="107.24055"
+         y="235.01012"
+         x="-10.280686"
          sodipodi:role="line">Acrylic Tube - 300mm x 50mm</tspan></text>
     <text
        id="text3748-2-8"
@@ -507,13 +507,24 @@
          x="-125.61913"
          id="tspan3742-6-4-3-8"
          sodipodi:role="line">Thermal Printer</tspan></text>
+    <text
+       id="text3744-3-2-7-1-7"
+       y="224.98984"
+       x="288.28659"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="224.98984"
+         x="288.28659"
+         id="tspan3742-6-4-3-8-2"
+         sodipodi:role="line">1.8&quot; 7-Segment Display</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Cut"
      style="display:inline"
-     transform="translate(209.88764,51.33894)">
+     transform="translate(270.57258,54.104142)">
     <path
        id="path823-2"
        d="m -101.53639,41.015002 a 5.9945507,5.9945507 0 0 0 -4.99969,5.91075 5.9945507,5.9945507 0 0 0 5.99446,5.994468 5.9945507,5.9945507 0 0 0 5.994458,-5.994468 5.9945507,5.9945507 0 0 0 -4.999178,-5.904549 v 0.66921 h -1.99005 z"
@@ -621,8 +632,8 @@
          y="268.94867" />
     </g>
     <rect
-       y="204.54259"
-       x="-15.148188"
+       y="203.15181"
+       x="-132.66942"
        height="49.790001"
        width="299.98999"
        id="rect63618-7"
@@ -1075,5 +1086,37 @@
        cx="-244.80775"
        cy="92.502113"
        r="23" />
+    <rect
+       style="display:inline;opacity:0.5;fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:round"
+       id="rect1480-9"
+       width="56"
+       height="38"
+       x="157.68123"
+       y="-303.46387"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.0999997;stroke-linejoin:round"
+       id="path21470"
+       cx="268.46387"
+       cy="154.18123"
+       r="1.5" />
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.0999997;stroke-linejoin:round"
+       id="path21470-4"
+       cx="300.46387"
+       cy="154.18123"
+       r="1.5" />
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.0999997;stroke-linejoin:round"
+       id="path21470-5"
+       cx="268.46387"
+       cy="217.18123"
+       r="1.5" />
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.0999997;stroke-linejoin:round"
+       id="path21470-4-5"
+       cx="300.46387"
+       cy="217.18123"
+       r="1.5" />
   </g>
 </svg>
