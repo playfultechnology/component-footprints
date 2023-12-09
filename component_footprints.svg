@@ -5,7 +5,7 @@
    viewBox="0 0 701.96094 307.09595"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="component_footprints.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,14 +23,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19024044"
-     inkscape:cx="1067.0707"
-     inkscape:cy="39.423794"
+     inkscape:zoom="0.76096176"
+     inkscape:cx="513.82345"
+     inkscape:cy="259.53998"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -44,7 +44,9 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -518,6 +520,74 @@
          x="288.28659"
          id="tspan3742-6-4-3-8-2"
          sodipodi:role="line">1.8&quot; 7-Segment Display</tspan></text>
+    <text
+       id="text3748-2-8-5-7"
+       y="4.278636"
+       x="-240.85522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="4.278636"
+         x="-240.85522"
+         sodipodi:role="line"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan2843-2">Triangular button 24mm</tspan></text>
+    <g
+       id="g8">
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         id="path3"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="401.51208"
+         sodipodi:cy="202.39371"
+         sodipodi:r1="101.10236"
+         sodipodi:r2="50.551182"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 401.51209,101.29134 43.7786,75.82678 43.77861,75.82677 -87.55721,0 -87.55722,0 43.77861,-75.82677 z"
+         transform="matrix(0.18255709,0,0,0.18255709,-314.53016,-52.240706)"
+         inkscape:transform-center-x="4.2913062e-06"
+         inkscape:transform-center-y="-4.6142378" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         id="path8"
+         cx="-241.20601"
+         cy="-15.248838"
+         r="1" />
+      <circle
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.1"
+         id="path8-7"
+         cx="-243.86183"
+         cy="35.687042"
+         r="1" />
+    </g>
+    <g
+       id="g8-3"
+       style="display:inline"
+       transform="matrix(1.36875,0,0,1.36875,108.42756,1.263423)">
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         id="path3-4"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="401.51208"
+         sodipodi:cy="202.39371"
+         sodipodi:r1="101.10236"
+         sodipodi:r2="50.551182"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 401.51209,101.29134 43.7786,75.82678 43.77861,75.82677 -87.55721,0 -87.55722,0 43.77861,-75.82677 z"
+         transform="matrix(0.18255709,0,0,0.18255709,-328.78266,-49.096016)"
+         inkscape:transform-center-x="4.2913062e-06"
+         inkscape:transform-center-y="-4.6142378" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1118,5 +1188,51 @@
        cx="300.46387"
        cy="217.18123"
        r="1.5" />
+    <circle
+       style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path98-9-9-49"
+       cx="-241.23128"
+       cy="-15.304131"
+       r="11.950011"
+       inkscape:label="24mm hole" />
+    <text
+       id="text3748-2-8-5-7-2"
+       y="4.278635"
+       x="-190.61719"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="4.278635"
+         x="-190.61719"
+         sodipodi:role="line"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan8">Square button 24mm</tspan></text>
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1"
+       id="path8-5"
+       cx="-190.96797"
+       cy="-18.549404"
+       r="1" />
+    <circle
+       style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path98-9-9-49-8"
+       cx="-190.99324"
+       cy="-18.604694"
+       r="11.950011"
+       inkscape:label="24mm hole" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.1"
+       id="rect9"
+       width="25"
+       height="25"
+       x="-203.49324"
+       y="-31.104694" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0985337"
+       id="rect10"
+       width="33.501465"
+       height="33.501465"
+       x="-207.7187"
+       y="-35.300137" />
   </g>
 </svg>
