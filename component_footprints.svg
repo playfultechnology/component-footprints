@@ -24,13 +24,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.48802992"
-     inkscape:cx="729.46347"
-     inkscape:cy="898.51048"
+     inkscape:cx="1491.7118"
+     inkscape:cy="763.27287"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -369,6 +369,17 @@
          x="177.2802"
          sodipodi:role="line">12864 LCD - 78.5 x 51.5mm</tspan></text>
     <text
+       id="text3854-5-4-3-2"
+       y="249.89183"
+       x="284.82486"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         id="tspan3938-1-9-2"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="249.89183"
+         x="284.82486"
+         sodipodi:role="line">2.9&quot; E-paper module MH-ET Live</tspan></text>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
        x="-175.30305"
@@ -607,7 +618,7 @@
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="stroke-width:0.1"></tspan></text>
+         style="stroke-width:0.1" /></text>
     <text
        id="text3748-2-3-2-3"
        y="301.51764"
@@ -644,6 +655,38 @@
        cx="-339.05283"
        cy="257.3812"
        r="38" />
+    <text
+       id="text3744-5-9"
+       y="159.5526"
+       x="-251.65166"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="159.5526"
+         x="-251.65166"
+         id="tspan3742-02-1"
+         sodipodi:role="line">Mini momentary button</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="172.78172"
+         x="-251.65166"
+         sodipodi:role="line"
+         id="tspan2" /></text>
+    <text
+       id="text3744-5-9-6"
+       y="191.65279"
+       x="-250.76166"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="191.65279"
+         x="-250.76166"
+         id="tspan3742-02-1-0"
+         sodipodi:role="line">Mini illuminated button</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="204.88191"
+         x="-250.76166"
+         sodipodi:role="line"
+         id="tspan2-7" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1671,5 +1714,57 @@
        stroke-width="0.1mm"
        id="polyline27"
        transform="translate(-487.60282,11.201271)" />
+    <circle
+       cy="152.01062"
+       cx="-251.60515"
+       id="path823-3-0-7-5"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.113559;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="3.3499999" />
+    <circle
+       cy="181.67085"
+       cx="-251.49451"
+       id="path823-3-0-7-0"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.133898;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="3.95" />
+    <rect
+       y="197.03868"
+       x="239.59781"
+       height="45.799999"
+       width="90.599998"
+       id="rect3897-8-0-7"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.100435;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="1.9167746" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.156709;stroke-dasharray:none;stroke-opacity:1"
+       id="path2"
+       cx="242.39781"
+       cy="199.93867"
+       r="1.5" />
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.156709;stroke-dasharray:none;stroke-opacity:1"
+       id="path2-3"
+       cx="327.39783"
+       cy="199.93867"
+       r="1.5" />
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.156709;stroke-dasharray:none;stroke-opacity:1"
+       id="path2-4"
+       cx="327.39783"
+       cy="239.93866"
+       r="1.5" />
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.156709;stroke-dasharray:none;stroke-opacity:1"
+       id="path2-1"
+       cx="242.39781"
+       cy="239.93866"
+       r="1.5" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.109032;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="80"
+       height="36.799999"
+       x="244.89781"
+       y="201.53868"
+       ry="0" />
   </g>
 </svg>
