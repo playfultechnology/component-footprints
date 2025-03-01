@@ -6,7 +6,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="component_footprints.svg"
+   sodipodi:docname="te.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.48802992"
-     inkscape:cx="1092.1462"
-     inkscape:cy="1066.533"
+     inkscape:cx="2481.4052"
+     inkscape:cy="955.88402"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
@@ -687,17 +687,6 @@
          x="-250.76166"
          sodipodi:role="line"
          id="tspan2-7" /></text>
-    <text
-       id="text3744-7-4-9-1-8"
-       y="182.49055"
-       x="83.249092"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-       xml:space="preserve"><tspan
-         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         y="182.49055"
-         x="83.249092"
-         id="tspan3742-1-5-3-4-8"
-         sodipodi:role="line">WS2811 Bullet Pixel</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -707,7 +696,7 @@
      transform="translate(385.70547,54.104142)">
     <path
        id="path823-2"
-       d="m -99.546852,52.92022 a 5.9945507,5.9945507 0 0 0 4.99969,-5.91075 5.9945507,5.9945507 0 0 0 -5.994458,-5.994468 5.9945507,5.9945507 0 0 0 -5.99446,5.994468 5.9945507,5.9945507 0 0 0 4.99918,5.904549 v -0.66921 h 1.990048 z"
+       d="m -101.53639,41.015002 a 5.9945507,5.9945507 0 0 0 -4.99969,5.91075 5.9945507,5.9945507 0 0 0 5.99446,5.994468 5.9945507,5.9945507 0 0 0 5.994458,-5.994468 5.9945507,5.9945507 0 0 0 -4.999178,-5.904549 v 0.66921 h -1.99005 z"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
@@ -900,17 +889,17 @@
        cy="149.49814"
        r="11.950011" />
     <circle
-       style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0943251;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path98-8-9-2-8"
-       cx="-194.19247"
+       style="vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path98-8-9-2"
+       cx="-194.39214"
        cy="149.09055"
-       r="1.65" />
+       r="1.7492681" />
     <circle
-       style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0943251;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path98-8-9-0-9-8"
-       cx="-156.29247"
+       style="vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path98-8-9-0-9"
+       cx="-156.09213"
        cy="149.09055"
-       r="1.65" />
+       r="1.7492681" />
     <circle
        r="24.239859"
        cy="114.82339"
@@ -1777,9 +1766,5 @@
        x="244.89781"
        y="201.53868"
        ry="0" />
-    <path
-       id="path111-9-6-1"
-       style="fill:none;stroke:#000000;stroke-width:0.109091;stroke-linejoin:bevel;stroke-dashoffset:0.188976"
-       d="m 56.211475,174.84838 v 0.12247 a 6,6 0 0 0 -5.4777,5.4777 h -0.12247 v 0.99994 h 0.12247 a 6,6 0 0 0 5.4777,5.4777 v 0.12248 h 0.99994 v -0.12248 a 6,6 0 0 0 5.4777,-5.4777 h 0.12196 v -0.99994 h -0.12092 a 6,6 0 0 0 -5.47874,-5.47873 v -0.12144 z" />
   </g>
 </svg>
