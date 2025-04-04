@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34508927"
-     inkscape:cx="1361.9664"
-     inkscape:cy="691.12552"
+     inkscape:zoom="1.9521197"
+     inkscape:cx="2414.5548"
+     inkscape:cy="1274.2559"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3840"
+     inkscape:window-height="2126"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
      inkscape:snap-bbox="true"
@@ -259,7 +259,7 @@
          style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          y="54.856564"
          x="162.2482"
-         sodipodi:role="line">4 MAX7219 7 segment displays - 128.6mm x 32mm</tspan><tspan
+         sodipodi:role="line">4 MAX7219 7 segment displays - 131.5mm x 32mm</tspan><tspan
          id="tspan1527-2"
          y="68.085686"
          x="162.2482"
@@ -390,6 +390,17 @@
          y="249.89183"
          x="284.82486"
          sodipodi:role="line">2.9&quot; E-paper module MH-ET Live</tspan></text>
+    <text
+       id="text3854-5-4-3-2-3"
+       y="353.73828"
+       x="328.76517"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         id="tspan3938-1-9-2-4"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="353.73828"
+         x="328.76517"
+         sodipodi:role="line">4.2&quot; Waveshare e-paper module</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -915,7 +926,7 @@
        y="17.933361"
        x="97.716873"
        height="31.99"
-       width="128.59001"
+       width="131.5"
        id="rect3897-8-0"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
@@ -1935,5 +1946,57 @@
        height="31.200001"
        x="-186.02295"
        y="204.17693" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976;stroke-opacity:1"
+       id="rect2313"
+       width="103"
+       height="78.5"
+       x="275.33411"
+       y="264.57248" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976"
+       id="path2315"
+       cx="278.33411"
+       cy="267.57248"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976"
+       id="path2315-3"
+       cx="375.38412"
+       cy="340.1225"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976"
+       id="path2315-2"
+       cx="375.33411"
+       cy="267.57248"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976"
+       id="path2315-39"
+       cx="278.33411"
+       cy="340.07248"
+       r="1.5" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976;stroke-opacity:1"
+       id="rect2365"
+       width="91"
+       height="78.5"
+       x="281.33411"
+       y="264.57248" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.0868902;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976"
+       id="rect2365-0"
+       width="84.800003"
+       height="63.599998"
+       x="284.43411"
+       y="267.57248" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976;stroke-opacity:1"
+       id="rect3262"
+       width="110"
+       height="90"
+       x="271.83411"
+       y="258.82248" />
   </g>
 </svg>
