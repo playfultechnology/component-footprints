@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="767.5896mm"
-   height="445.07306mm"
-   viewBox="0 0 767.5896 445.07306"
+   height="520.06128mm"
+   viewBox="0 0 767.5896 520.06128"
    version="1.1"
    id="svg8"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -58,11 +58,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3803571"
-     inkscape:cx="837.10224"
-     inkscape:cy="729.8836"
+     inkscape:zoom="0.48802994"
+     inkscape:cx="1263.2422"
+     inkscape:cy="1130.0536"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="3840"
      inkscape:window-height="2126"
@@ -1002,7 +1002,7 @@
        d="m -345.14818,323.30185 v 6.00015 h -2.99981 v 2.99982 h -3.99976 v 9.9999 h 3.99976 v 3.00034 h 2.99981 v 3.99975 h 10.00043 v -3.99975 h 2.99981 V 329.302 h -2.99981 v -6.00015 z" />
     <path
        id="path1040"
-       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dashoffset:0.188976;stroke-opacity:1;stroke-dasharray:none"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976;stroke-opacity:1"
        inkscape:transform-center-x="-1.7735326e-06"
        inkscape:transform-center-y="-5.9467066"
        d="m -354.55666,61.850635 -15.30835,-26.514828 a 3.0551455,3.0551455 120 0 1 2.64584,-4.582718 l 30.61668,-3e-6 a 3.0551451,3.0551451 59.999997 0 1 2.64584,4.582718 L -349.265,61.850635 a 3.0551451,3.0551451 180 0 1 -5.29166,0 z"
@@ -1011,7 +1011,7 @@
        transform="rotate(180,-296.38807,14.539988)" />
     <path
        id="path1040-6"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dashoffset:0.188976;stroke-opacity:1;stroke-dasharray:none"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0.188976;stroke-opacity:1"
        inkscape:transform-center-x="6.5399222e-06"
        inkscape:transform-center-y="-7.1001426"
        d="m -353.89521,66.955976 -19.98142,-34.608851 a 2.291359,2.291359 120 0 1 1.98437,-3.437038 l 39.96286,-3e-6 a 2.2913588,2.2913588 59.999998 0 1 1.98438,3.437038 l -19.98144,34.608854 a 2.2913589,2.2913589 180 0 1 -3.96875,0 z"
@@ -1049,6 +1049,209 @@
        cx="-243.86183"
        cy="35.687042"
        r="16.5" />
+    <g
+       id="buckle-geometry"
+       transform="translate(-170.76795,379.22957)">
+      <!-- 34.5 x 20.0 plate -->
+      <rect
+         class="part"
+         x="0"
+         y="0"
+         width="34.5"
+         height="20"
+         rx="1"
+         ry="1"
+         id="rect24"
+         style="fill:none;stroke:#000000;stroke-width:0.35" />
+      <!-- exact 2 x Ø4.2 holes on 25.0 mm pitch -->
+      <circle
+         class="critical hole"
+         cx="4.75"
+         cy="10"
+         r="2.0999999"
+         data-hole-dia-mm="4.2"
+         data-x-mm="4.75"
+         data-y-mm="10"
+         id="circle24"
+         style="fill:none;stroke:#000000;stroke-width:0.45" />
+      <circle
+         class="critical hole"
+         cx="29.75"
+         cy="10"
+         r="2.0999999"
+         data-hole-dia-mm="4.2"
+         data-x-mm="29.75"
+         data-y-mm="10"
+         id="circle25"
+         style="fill:none;stroke:#000000;stroke-width:0.45" />
+      <g
+         class="center"
+         id="g26"
+         style="stroke:#777777;stroke-width:0.18">
+        <path
+           d="m 1.75,10 h 6 m -3,-3 v 6"
+           id="path25" />
+        <path
+           d="m 26.75,10 h 6 m -3,-3 v 6"
+           id="path26" />
+      </g>
+      <!-- central upright/blade footprint, un-dimensioned in front view;
+           width calibrated to the drawing (~3 mm) -->
+      <rect
+         class="ref"
+         x="15.75"
+         y="2.5"
+         width="3"
+         height="15"
+         rx="1.2"
+         ry="1.2"
+         id="rect26"
+         style="fill:none;stroke:#555555;stroke-width:0.25;stroke-dasharray:1.4, 1" />
+    </g>
+    <path
+       class="part"
+       d="m -271.43652,385.52957 8.6,-8.3 h 56.1 l 8.3,8.3 v 28.81634 l -9.49583,8.92949 h -8.39804 c -0.45971,0 -1.00613,0.48354 -1.00613,0.94325 v 11.01092 h -45.5 l -8.6,-8.6 v -16.95 l 21.42623,-0.52917 v -5.84166 l -21.42623,-0.52917 z"
+       id="path2-2"
+       sodipodi:nodetypes="ccccccsscccccccc"
+       style="fill:none;stroke:#000000;stroke-width:0.35" />
+    <g
+       id="body-mounting-holes"
+       transform="translate(-271.43652,377.22957)">
+      <!-- H1: x=6.5, y=(58-36.5)/2 = 10.75 -->
+      <circle
+         class="critical hole"
+         cx="6.5"
+         cy="10.75"
+         r="2"
+         data-hole="M4"
+         data-x-mm="6.5"
+         data-y-mm="10.75"
+         id="circle4"
+         style="fill:none;stroke:#000000;stroke-width:0.45" />
+      <!-- H2 -->
+      <circle
+         class="critical hole"
+         cx="6.5"
+         cy="47.25"
+         r="2"
+         data-hole="M4"
+         data-x-mm="6.5"
+         data-y-mm="47.25"
+         id="circle5"
+         style="fill:none;stroke:#000000;stroke-width:0.45" />
+      <!-- H3: 36.0 mm to the right of left hole column; vertically centred -->
+      <circle
+         class="critical hole"
+         cx="42.5"
+         cy="29"
+         r="2"
+         data-hole="M4"
+         data-x-mm="42.5"
+         data-y-mm="29.0"
+         id="circle6"
+         style="fill:none;stroke:#000000;stroke-width:0.45" />
+      <!-- centre marks -->
+      <g
+         class="center"
+         id="g8"
+         style="stroke:#777777;stroke-width:0.18">
+        <path
+           d="m 3.5,10.75 h 6 m -3,-3 v 6"
+           id="path6" />
+        <path
+           d="m 3.5,47.25 h 6 m -3,-3 v 6"
+           id="path7" />
+        <path
+           d="m 39.5,29 h 6 m -3,-3 v 6"
+           id="path8-3" />
+      </g>
+    </g>
+    <g
+       id="body-reference-features"
+       class="ref"
+       style="fill:none;stroke:#555555;stroke-width:0.25;stroke-dasharray:1.4, 1"
+       transform="translate(-271.43652,377.22957)">
+      <circle
+         cx="17.200001"
+         cy="20.799999"
+         r="3.5"
+         id="circle8" />
+      <circle
+         cx="30.299999"
+         cy="45.599998"
+         r="3.7"
+         id="circle9" />
+      <circle
+         cx="68.300003"
+         cy="20.200001"
+         r="3.5999999"
+         id="circle10" />
+    </g>
+    <g
+       id="g2"
+       transform="translate(-163.13754,354.38218)"
+       style="stroke:#ff0000;stroke-opacity:1">
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1"
+         cx="67.638161"
+         cy="27.070717"
+         r="1.75" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-7"
+         cx="67.638161"
+         cy="68.270721"
+         r="1.75" />
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.0999996;stroke-linecap:round;stroke-linejoin:round"
+         id="rect6"
+         width="12"
+         height="24"
+         x="61.638157"
+         y="35.670738"
+         ry="6.0000005"
+         rx="6" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect1"
+         width="40"
+         height="40"
+         x="121.42351"
+         y="17.71887"
+         ry="1.8975099" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3"
+         cx="123.92351"
+         cy="20.218872"
+         r="1.55" />
+      <circle
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="path3-0"
+         cx="158.92351"
+         cy="20.218872"
+         r="1.55" />
+      <circle
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="path3-6"
+         cx="158.92351"
+         cy="55.218872"
+         r="1.55" />
+      <circle
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="path3-2"
+         cx="123.92351"
+         cy="55.218872"
+         r="1.55" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect2-5"
+       width="24"
+       height="55"
+       x="-107.49938"
+       y="374.55292" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1687,6 +1890,65 @@
          x="-233.98079"
          y="324.29767"
          style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">RepRapDiscount 2004LCD 150mm x 50mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-235.16547"
+       y="371.95319"
+       id="text3854-4-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan3852-0-8-4"
+         x="-235.16547"
+         y="371.95319"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">Cabinet Maglock</tspan><tspan
+         sodipodi:role="line"
+         x="-235.16547"
+         y="385.18231"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan3" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-154.81424"
+       y="372.77475"
+       id="text3854-4-6-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan3852-0-8-4-4"
+         x="-154.81424"
+         y="372.77475"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">Cabinet Maglock Latch</tspan><tspan
+         sodipodi:role="line"
+         x="-154.81424"
+         y="386.00388"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4" /><tspan
+         sodipodi:role="line"
+         x="-154.81424"
+         y="399.233"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan3-3" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-95.413818"
+       y="372.40656"
+       id="text3854-4-6-8-6-6"><tspan
+         sodipodi:role="line"
+         x="-95.413818"
+         y="372.40656"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan3-3-8">Doorbell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-33.59499"
+       y="369.9657"
+       id="text3854-4-6-8-6-6-7"><tspan
+         sodipodi:role="line"
+         x="-33.59499"
+         y="369.9657"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan5">DY-SV5W MP3 Player</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
