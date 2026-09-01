@@ -5,7 +5,7 @@
    viewBox="0 0 767.5896 520.06128"
    version="1.1"
    id="svg8"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="component_footprints.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -58,16 +58,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48802994"
-     inkscape:cx="1263.2422"
-     inkscape:cy="1130.0536"
+     inkscape:zoom="0.8733288"
+     inkscape:cx="1180.5405"
+     inkscape:cy="2052.4916"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="3840"
-     inkscape:window-height="2126"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
      inkscape:snap-bbox="true"
@@ -2442,5 +2442,176 @@
        height="90"
        x="271.83411"
        y="258.82248" />
+    <path
+       d="m 34.223937,383.83875 v 6.95151 c 0,0.85795 -0.694321,1.54874 -1.557011,1.54874 h -6.942729 v 29.99972 c 0,0.831 0.66865,1.50017 1.49965,1.50017 h 47.000232 c 0.831,0 1.49965,-0.66917 1.49965,-1.50017 v -15.00011 l -2.999817,-0.99994 H 60.835749 c -0.75577,0 -1.364258,-1.11511 -1.364258,-2.50011 0,-1.385 0.608488,-2.5001 1.364258,-2.5001 h 11.888163 l 2.999817,-0.99994 v -14.9996 c 0,-0.831 -0.66865,-1.50017 -1.49965,-1.50017 z"
+       style="fill:#f7f7f7;stroke:#111111;stroke-width:0.35"
+       id="path5" />
+    <g
+       id="mounting-holes"
+       transform="translate(-4.2762722,333.83874)">
+      <circle
+         cx="75"
+         cy="55"
+         r="2"
+         class="object"
+         id="circle8-0"
+         style="fill:none;stroke:#111111;stroke-width:0.35" />
+      <circle
+         cx="75"
+         cy="85"
+         r="2"
+         class="object"
+         id="circle9-9"
+         style="fill:none;stroke:#111111;stroke-width:0.35" />
+      <circle
+         cx="50"
+         cy="66.5"
+         r="2"
+         class="object"
+         id="circle10-4"
+         style="fill:none;stroke:#111111;stroke-width:0.35" />
+      <line
+         x1="72"
+         y1="55"
+         x2="78"
+         y2="55"
+         class="center"
+         id="line10"
+         style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+      <line
+         x1="75"
+         y1="52"
+         x2="75"
+         y2="58"
+         class="center"
+         id="line11"
+         style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+      <line
+         x1="72"
+         y1="85"
+         x2="78"
+         y2="85"
+         class="center"
+         id="line12"
+         style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+      <line
+         x1="75"
+         y1="82"
+         x2="75"
+         y2="88"
+         class="center"
+         id="line13"
+         style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+      <line
+         x1="47"
+         y1="66.5"
+         x2="53"
+         y2="66.5"
+         class="center"
+         id="line14"
+         style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+      <line
+         x1="50"
+         y1="63.5"
+         x2="50"
+         y2="69.5"
+         class="center"
+         id="line15"
+         style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+    </g>
+    <g
+       id="dimension-23_5mm"
+       transform="translate(-4.2762722,333.83874)">
+      <line
+         x1="50"
+         y1="90"
+         x2="45"
+         y2="90"
+         class="ext"
+         id="line32"
+         style="fill:none;stroke:#555555;stroke-width:0.18" />
+    </g>
+    <rect
+       x="84.631775"
+       y="388.38504"
+       width="15"
+       height="30"
+       rx="1"
+       ry="1"
+       class="object-fill"
+       id="rect60"
+       style="fill:#f7f7f7;stroke:#111111;stroke-width:0.35" />
+    <circle
+       cx="92.131775"
+       cy="393.38504"
+       r="1.5"
+       class="object"
+       id="circle60"
+       style="fill:none;stroke:#111111;stroke-width:0.35" />
+    <circle
+       cx="92.131775"
+       cy="413.38504"
+       r="1.5"
+       class="object"
+       id="circle61"
+       style="fill:none;stroke:#111111;stroke-width:0.35" />
+    <line
+       x1="89.131775"
+       y1="393.38504"
+       x2="95.131775"
+       y2="393.38504"
+       class="center"
+       id="line61"
+       style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+    <line
+       x1="92.131775"
+       y1="390.38504"
+       x2="92.131775"
+       y2="396.38504"
+       class="center"
+       id="line62"
+       style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+    <line
+       x1="89.131775"
+       y1="413.38504"
+       x2="95.131775"
+       y2="413.38504"
+       class="center"
+       id="line63"
+       style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+    <line
+       x1="92.131775"
+       y1="410.38504"
+       x2="92.131775"
+       y2="416.38504"
+       class="center"
+       id="line64"
+       style="fill:none;stroke:#777777;stroke-width:0.18;stroke-dasharray:1.5, 1.2" />
+    <rect
+       x="86.631775"
+       y="402.13504"
+       width="11"
+       height="2.5"
+       rx="1.25"
+       ry="1.25"
+       class="object"
+       id="rect64"
+       style="fill:none;stroke:#111111;stroke-width:0.35" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="51.069935"
+       y="363.77072"
+       id="text3854-4-6-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan3852-0-8-4-2"
+         x="51.069935"
+         y="363.77072"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">SARY 5V Cabinet Maglock</tspan><tspan
+         sodipodi:role="line"
+         x="51.069935"
+         y="376.99985"
+         style="font-size:4.23333px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan3-4" /></text>
   </g>
 </svg>
